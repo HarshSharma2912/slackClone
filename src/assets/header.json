@@ -1,0 +1,345 @@
+[
+    {
+        "feature": [
+          {
+            "noOfCategory": 1,
+            "categoryArray": [
+              {
+                "categoryId": 1,
+                "category": "COLLABORATION",
+                "items": [
+                  {
+                    "itemId": 1,
+                    "heading": "Channels",
+                    "subHeading": "Organise teams and work"
+                  },
+                  {
+                    "itemId": 2,
+                    "heading": "Slack Connect",
+                    "subHeading": "Work with external partners"
+                  },
+                  {
+                    "itemId": 3,
+                    "heading": "Messaging",
+                    "subHeading": "Chat with your team"
+                  },
+                  {
+                    "itemId": 4,
+                    "heading": "Huddles",
+                    "subHeading": "Meet using audio and video"
+                  },
+                  {
+                    "itemId": 5,
+                    "heading": "Clips",
+                    "subHeading": "Record and share updates"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "noOfCategory": 2,
+            "categoryArray": [
+              {
+                "categoryId": 2,
+                "category": "PROJECT MANAGEMENT",
+                "items": [
+                  {
+                    "itemId": 1,
+                    "heading": "Templates",
+                    "subHeading": "Start any task, fast"
+                  },
+                  {
+                    "itemId": 2,
+                    "heading": "Canvas",
+                    "subHeading": "Create rich, flexible docs"
+                  },
+                  {
+                    "itemId": 3,
+                    "heading": "Lists",
+                    "subHeading": "Organise, track and manage projects"
+                  },
+                  {
+                    "itemId": 4,
+                    "heading": "Search",
+                    "subHeading": "Seek shared knowledge"
+                  },
+                  {
+                    "itemId": 5,
+                    "heading": "File sharing",
+                    "subHeading": "Bring files into the flow of work"
+                  }
+                ]
+              },
+              {
+                "categoryId": 3,
+                "category": "INTEGRATIONS",
+                "items": [
+                  {
+                    "itemId": 1,
+                    "heading": "Workflow Builder",
+                    "subHeading": "Automate everyday tasks"
+                  },
+                  {
+                    "itemId": 2,
+                    "heading": "Apps & integrations",
+                    "subHeading": "Connect your tools with Slack"
+                  },
+                  {
+                    "itemId": 3,
+                    "heading": "Slack and Salesforce",
+                    "subHeading": "Bring CRM insights into Slack"
+                  },
+                  {
+                    "categoryId": 5,
+                    "category": "ENTERPRISE PLATFORM",
+                    "items": [
+                      {
+                        "itemId": 1,
+                        "heading": "Security",
+                        "subHeading": "Protect data, ensure compliance"
+                      },
+                      {
+                        "itemId": 2,
+                        "heading": "Enterprise Key Management",
+                        "subHeading": "Monitor and revoke access"
+                      },
+                      {
+                        "itemId": 3,
+                        "heading": "Slack Atlas",
+                        "subHeading": "Discover rich profiles and org charts"
+                      },
+                      {
+                        "itemId": 4,
+                        "heading": "Watch demo",
+                        "subHeading": "Watch demo"
+                      },
+                      {
+                        "itemId": 5,
+                        "heading": "Download Slack",
+                        "subHeading": "Download Slack"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "noOfCategory": 2,
+            "categoryArray": [
+              {
+                "categoryId": 4,
+                "category": "INTELLIGENCE",
+                "items": [
+                  {
+                    "itemId": 1,
+                    "heading": "Slack AI",
+                    "subHeading": "Save time and work smarter with powerfully simple AI"
+                  },
+                  {
+                    "itemId": 2,
+                    "heading": "Agentforce",
+                    "subHeading": "Empower your whole team with AI-powered agents in Slack"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+   {
+    "solutions" :   [
+        {
+          "categoryId": 1,
+          "category": "BY DEPARTMENT",
+          "items": [
+            {
+              "itemId": 1,
+              "heading": "Engineering",
+              "subHeading": ""
+            },
+            {
+              "itemId": 2,
+              "heading": "IT",
+              "subHeading": ""
+            },
+            {
+              "itemId": 3,
+              "heading": "Customer service",
+              "subHeading": ""
+            },
+            {
+              "itemId": 4,
+              "heading": "Sales",
+              "subHeading": ""
+            },
+            {
+              "itemId": 5,
+              "heading": "Project management",
+              "subHeading": ""
+            },
+            {
+              "itemId": 6,
+              "heading": "Marketing",
+              "subHeading": ""
+            },
+            {
+              "itemId": 7,
+              "heading": "Human Resources",
+              "subHeading": ""
+            },
+            {
+              "itemId": 8,
+              "heading": "Security",
+              "subHeading": ""
+            }
+          ]
+        },
+        {
+          "categoryId": 2,
+          "category": "BY INDUSTRY",
+          "items": [
+            {
+              "itemId": 1,
+              "heading": "Manufacture, auto and energy",
+              "subHeading": ""
+            },
+            {
+              "itemId": 2,
+              "heading": "Technology",
+              "subHeading": ""
+            },
+            {
+              "itemId": 3,
+              "heading": "Media",
+              "subHeading": ""
+            },
+            {
+              "itemId": 4,
+              "heading": "Small business",
+              "subHeading": ""
+            },
+            {
+              "itemId": 5,
+              "heading": "Financial services",
+              "subHeading": ""
+            },
+            {
+              "itemId": 6,
+              "heading": "Retail",
+              "subHeading": ""
+            },
+            {
+              "itemId": 7,
+              "heading": "Education",
+              "subHeading": ""
+            },
+            {
+              "itemId": 8,
+              "heading": "Health and life sciences",
+              "subHeading": ""
+            }
+          ]
+        }
+      ]
+       
+   },
+   {"resources" :[
+    {
+      "categoryId": 1,
+      "category": "BY DEPARTMENT",
+      "items": [
+        {
+          "itemId": 1,
+          "heading": "Engineering",
+          "subHeading": ""
+        },
+        {
+          "itemId": 2,
+          "heading": "IT",
+          "subHeading": ""
+        },
+        {
+          "itemId": 3,
+          "heading": "Customer service",
+          "subHeading": ""
+        },
+        {
+          "itemId": 4,
+          "heading": "Sales",
+          "subHeading": ""
+        },
+        {
+          "itemId": 5,
+          "heading": "Project management",
+          "subHeading": ""
+        },
+        {
+          "itemId": 6,
+          "heading": "Marketing",
+          "subHeading": ""
+        },
+        {
+          "itemId": 7,
+          "heading": "Human Resources",
+          "subHeading": ""
+        },
+        {
+          "itemId": 8,
+          "heading": "Security",
+          "subHeading": ""
+        }
+      ]
+    },
+    {
+      "categoryId": 2,
+      "category": "BY INDUSTRY",
+      "items": [
+        {
+          "itemId": 1,
+          "heading": "Manufacture, auto and energy",
+          "subHeading": ""
+        },
+        {
+          "itemId": 2,
+          "heading": "Technology",
+          "subHeading": ""
+        },
+        {
+          "itemId": 3,
+          "heading": "Media",
+          "subHeading": ""
+        },
+        {
+          "itemId": 4,
+          "heading": "Small business",
+          "subHeading": ""
+        },
+        {
+          "itemId": 5,
+          "heading": "Financial services",
+          "subHeading": ""
+        },
+        {
+          "itemId": 6,
+          "heading": "Retail",
+          "subHeading": ""
+        },
+        {
+          "itemId": 7,
+          "heading": "Education",
+          "subHeading": ""
+        },
+        {
+          "itemId": 8,
+          "heading": "Health and life sciences",
+          "subHeading": ""
+        }
+      ]
+    }
+  ]
+  
+   }
+  ]
+  

@@ -2,6 +2,76 @@
     display: none;
 }
 
-/* .feature:hover  .innerBox {
+/* .feature:hover  .innerBox { 
     display: block;
 } */
+
+
+
+
+.modalOpen{
+    /* border: solid; */
+    /* height: 300px;
+    width: 600px; */
+    /* background: #adc5ad; */
+    /* transition: all 5s; */
+
+    position: absolute;
+    top: 20px;
+
+}
+
+.firstTrans{ 
+    opacity: 0;
+    border-radius: 12px;
+    padding: 15px;
+    
+}
+
+.moveUp{
+    display: block; 
+    transition: transform .5s , opacity .3s ,  background-color 0.3s ,box-shadow 0.3s;
+    opacity: 0; 
+    height: 300px;
+    width: 992px;
+    transform: translateY(-20px);
+    border-radius: 12px;
+    padding: 15px;
+
+}
+
+.moveDown{
+    display: block;
+    /* background-color: black; */
+    box-shadow: 0 0 5px black;
+    background-color: white;
+    transition: transform .5s , opacity .3s,  background-color 0.3s ,  box-shadow 0.3s;
+    opacity: 1;
+    height: 300px;
+    width: 992px;
+    transform: translateY(20px);
+    border-radius: 12px;
+    padding: 15px;
+    
+}
+
+.headermain{
+    background-color: gray;
+}
+
+.fixed{
+    position: fixed;
+    position: fixed;
+    top: 10px;
+    right: 0;
+    left: 0; 
+    animation: headerSticky forwards .2s;
+}
+
+ 
+
+
+@keyframes headerSticky {
+    from {top: -40px; }
+    to {top: 5px;}
+  }
